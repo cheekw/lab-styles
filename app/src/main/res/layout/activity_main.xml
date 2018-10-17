@@ -17,6 +17,7 @@
         android:layout_marginBottom="@dimen/activity_vertical_margin"
         android:layout_centerHorizontal="true"
         android:src="@drawable/ischool_symbol_only_black"
+        android:tint="@color/uwPurple"
         android:contentDescription="@string/logoDescription"
         />
 
